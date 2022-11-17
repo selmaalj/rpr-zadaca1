@@ -8,7 +8,7 @@ public class App {
         s = s + a + " ";
         try {
              rez = ExpressionEvaluator.evaluate(s);
-            System.out.println("Rezultat izraza "+ rez);
+            System.out.println("Vrijednost izraza :"+ rez);
         }
         catch(Exception e){
             System.out.print(e.getMessage());
