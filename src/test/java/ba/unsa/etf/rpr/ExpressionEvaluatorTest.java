@@ -42,5 +42,6 @@ public class ExpressionEvaluatorTest {
         Assertions.assertEquals(3.6, ExpressionEvaluator.evaluate(" 3.6 "));
         Assertions.assertEquals(0.0, ExpressionEvaluator.evaluate(" ( 5.7 * 0 ) "));
         Assertions.assertEquals(3.75, ExpressionEvaluator.evaluate("( ( 1 + ( ( ( sqrt ( 9 * ( 2 - 1 ) ) ) / 1.5 ) / 8 ) ) * 3 )"));
+        Assertions.assertEquals(3.4641016151377544, ExpressionEvaluator.evaluate(" ( sqrt ( sqrt 144 ) )"));
     }
 }
