@@ -10,8 +10,9 @@ import java.util.Stack;
 public class ExpressionEvaluator {
     /**
      * Returns double value of given string based on Dijkstra's two stack algorithm
-     * @param str
-     * @return
+     * @param str expression
+     * @throws RuntimeException
+     * @return double
      */
     public static double evaluate(String str) {
         str=str.trim();
