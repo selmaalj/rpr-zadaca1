@@ -1,0 +1,48 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'1.7'
+-sourcepath
+'C:/Users/WIN10/Desktop/rpr/rpr-zadaca1/src/main/java;C:/Users/WIN10/Desktop/rpr/rpr-zadaca1/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/WIN10/Desktop/rpr/rpr-zadaca1/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'rpr-zadaca1 1 API'
+-linkoffline
+'https://docs.oracle.com/javase/7/docs/api' 'C:/Users/WIN10/Desktop/rpr/rpr-zadaca1/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'rpr-zadaca1 1 API'
+ba.unsa.etf.rpr
+'C:/Users/WIN10/Desktop/rpr/rpr-zadaca1/src/main/java/ba/unsa/etf/rpr/App.java'
+'C:/Users/WIN10/Desktop/rpr/rpr-zadaca1/src/main/java/ba/unsa/etf/rpr/ExpressionEvaluator.java'
+C:\Users\WIN10\Desktop\rpr\rpr-zadaca1\src\main\java = 1668374181179
+C:\Users\WIN10\Desktop\rpr\rpr-zadaca1\target\generated-sources\annotations = 1668606333112
+C:\Users\WIN10\Desktop\rpr\rpr-zadaca1\target\site\apidocs\allclasses-index.html = 1668729805022
+C:\Users\WIN10\Desktop\rpr\rpr-zadaca1\target\site\apidocs\allpackages-index.html = 1668729805041
+C:\Users\WIN10\Desktop\rpr\rpr-zadaca1\target\site\apidocs\element-list = 1668729804895
+C:\Users\WIN10\Desktop\rpr\rpr-zadaca1\target\site\apidocs\help-doc.html = 1668729805119
+C:\Users\WIN10\Desktop\rpr\rpr-zadaca1\target\site\apidocs\index-all.html = 1668729805091
+C:\Users\WIN10\Desktop\rpr\rpr-zadaca1\target\site\apidocs\index.html = 1668729805096
+C:\Users\WIN10\Desktop\rpr\rpr-zadaca1\target\site\apidocs\jquery-ui.overrides.css = 1668729805177
+C:\Users\WIN10\Desktop\rpr\rpr-zadaca1\target\site\apidocs\member-search-index.js = 1668729805071
+C:\Users\WIN10\Desktop\rpr\rpr-zadaca1\target\site\apidocs\module-search-index.js = 1668729805061
+C:\Users\WIN10\Desktop\rpr\rpr-zadaca1\target\site\apidocs\overview-tree.html = 1668729804988
+C:\Users\WIN10\Desktop\rpr\rpr-zadaca1\target\site\apidocs\package-search-index.js = 1668729805067
+C:\Users\WIN10\Desktop\rpr\rpr-zadaca1\target\site\apidocs\script.js = 1668729805142
+C:\Users\WIN10\Desktop\rpr\rpr-zadaca1\target\site\apidocs\search.js = 1668729805148
+C:\Users\WIN10\Desktop\rpr\rpr-zadaca1\target\site\apidocs\stylesheet.css = 1668729805129
+C:\Users\WIN10\Desktop\rpr\rpr-zadaca1\target\site\apidocs\tag-search-index.js = 1668729805074
+C:\Users\WIN10\Desktop\rpr\rpr-zadaca1\target\site\apidocs\type-search-index.js = 1668729805069
